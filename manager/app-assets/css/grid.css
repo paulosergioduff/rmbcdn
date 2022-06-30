@@ -1,0 +1,120 @@
+.Ligada{
+    color: #FFF;
+    background-color: #08700a;
+    }
+    .Desligada{
+      color: #FFF;
+      background-color: #000;
+    }
+    
+    .Online{
+    color: #FFF;
+    background-color: #08700a;
+    }
+    .Offline{
+      color: #FFF;
+      background-color: #bd0202;
+    }
+    
+    .Desbloqueado{
+    color: #FFF;
+    background-color: #08700a;
+    }
+    .Bloqueado{
+      color: #FFF;
+      background-color: #bd0202;
+    }
+    
+    .mapboxgl-popup {
+      width: 700px;
+    }
+    
+    .mapboxgl-popup-content {
+       width: 700px;
+    }
+    
+    
+    #botoes {
+      position: absolute;
+      bottom: 5%;
+      right: 3%;
+      z-index: 5;
+      background-color:  rgb(255, 255, 255, 0);
+      padding: 5px;
+      text-align: center;
+      font-family: 'Roboto','sans-serif';
+      line-height: 30px;
+      padding-left: 10px;
+    }
+    #floating-panel4 {
+      position: absolute;
+      bottom: 3%;
+      left: 2%;
+      z-index: 5;
+      background-color:  rgb(255, 255, 255, 0);
+      padding: 5px;
+      text-align: center;
+      font-family: 'Roboto','sans-serif';
+      line-height: 30px;
+      padding-left: 10px;
+    }
+    #floating-panel5 {
+      position: absolute;
+      top: 4%;
+      left: 4%;
+      z-index: 5;
+      background-color:  rgb(255, 255, 255, 0);
+      padding: 5px;
+      text-align: center;
+      font-family: 'Roboto','sans-serif';
+      line-height: 30px;
+      padding-left: 10px;
+    }
+    #floating-panel6 {
+      position: absolute;
+      top: 4%;
+      left: 18%;
+      z-index: 5;
+      background-color:  rgb(255, 255, 255, 0);
+      padding: 5px;
+      text-align: center;
+      font-family: 'Roboto','sans-serif';
+      line-height: 30px;
+      padding-left: 10px;
+    }
+    #floating-panel7 {
+      position: absolute;
+      top: 4%;
+      left: 32%;
+      z-index: 5;
+      background-color:  rgb(255, 255, 255, 0);
+      padding: 5px;
+      text-align: center;
+      font-family: 'Roboto','sans-serif';
+      line-height: 30px;
+      padding-left: 10px;
+    }
+    #floating-panel8 {
+      position: absolute;
+      top: 4%;
+      left: 46%;
+      z-index: 5;
+      background-color:  rgb(255, 255, 255, 0);
+      padding: 5px;
+      text-align: center;
+      font-family: 'Roboto','sans-serif';
+      line-height: 30px;
+      padding-left: 10px;
+    }
+    #floating-panel9 {
+      position: absolute;
+      bottom: 10%;
+      left: 2%;
+      z-index: 5;
+      background-color:  rgb(255, 255, 255, 0);
+      padding: 5px;
+      text-align: center;
+      font-family: 'Roboto','sans-serif';
+      line-height: 30px;
+      padding-left: 10px;
+    }
